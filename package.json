@@ -1,0 +1,29 @@
+{
+  "name": "tech",
+  "version": "1.0.0",
+  "description": "* [Description](#description)\r   * [Installation](#installation)\r   * [License](#license)\r   * [Usage](#usage)   \r   * [Questions](#Questions)\r   * [Review](#Review)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay1194/Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay1194/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Jay1194/Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.6"
+  }
+}
